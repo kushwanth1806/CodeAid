@@ -1,7 +1,7 @@
-# CodeAId : An Agentic AI for Repository-Wide Code Understanding, Error Detection, and Repair
+# CodeAid : An Agentic AI for Repository-Wide Code Understanding, Error Detection, and Repair
 
 ## Overview
-**CodeAId ** is an intelligent multi-agent system designed to autonomously scan, analyze, and improve entire code repositories.  
+CodeAid is an intelligent multi-agent system designed to autonomously scan, analyze, and improve entire code repositories.  
 It detects bugs, suggests optimal fixes, verifies them in sandboxed environments, and explains the reasoning behind each correction — acting as a **“Grammarly for code.”**
 
 ## Objectives
